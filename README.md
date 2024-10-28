@@ -17,5 +17,5 @@
 
 Clone this repository and navigate to the project directory:
 ```bash
-git clone https://github.com/yourusername/countdown-timer.git
+git clone https://github.com/Mr-Cullen-1/countdown-timer.git
 cd countdown-timer
